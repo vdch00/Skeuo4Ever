@@ -36,6 +36,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/ico
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.controlcenter
+Name: Пункт управления
+Description: Control Center (iOS 7) in iOS 6 style: swipe up from the bottom edge
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.2)
+Architecture: iphoneos-arm
+Version: 0.2.0
+Installed-Size: 80
+Filename: debs/com.ios6revive.controlcenter_0.2.0_iphoneos-arm.deb
+Size: 20884
+MD5sum: 48dc3261097189e08929a52808cb067a
+SHA1: aff5c362375ae5d846b05c0f6d7e6ba8b41d11b2
+SHA256: 44bc4d73e4ec036b1bb4770bad9fd2f9227d4e1428e90368e951a281c78d49cd
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.core
 Name: iOS6Revive
 Description: iOS6Revive core: Settings pane and shared services
@@ -51,6 +70,25 @@ Size: 24514
 MD5sum: a5e3a9966473fa90a122214816655f96
 SHA1: db29f3ebfa20f144252d8dcc60e05b766a48d009
 SHA256: dd199a0b2c0152346e3dd409a05ee1f04d83c147a8796513da1b59946eefb17e
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.core
+Name: iOS6Revive
+Description: iOS6Revive core: Settings pane and shared services
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 116
+Filename: debs/com.ios6revive.core_0.1.2_iphoneos-arm.deb
+Size: 24710
+MD5sum: f0aeb4ed9035cdb7f3bdf615acaf33ce
+SHA1: a00c7b24fe47343c1dd4361e706e70f8da101f1c
+SHA256: 64abe26ed288b1c7c08f10e1e3aa43aee2e90f690dc0f08907335e8c6aa4be2a
 Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
 Homepage: https://vdch00.github.io/iOS6Revive/

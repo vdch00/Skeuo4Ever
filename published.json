@@ -15,12 +15,26 @@
       "source": "72540c44b01f55d71629b3ff34c52284affeccd2757e1ffe86afb9bab8168ce6"
     }
   },
+  "com.ios6revive.controlcenter": {
+    "0.2.0": {
+      "date": "2026-10-28",
+      "file": "debs/com.ios6revive.controlcenter_0.2.0_iphoneos-arm.deb",
+      "sha256": "44bc4d73e4ec036b1bb4770bad9fd2f9227d4e1428e90368e951a281c78d49cd",
+      "source": "ed4441b9ad0d47e8539ccf8ad0278fd7da21e502217f3ce9202a427144ff70db"
+    }
+  },
   "com.ios6revive.core": {
     "0.1.1": {
       "date": "2026-10-28",
       "file": "debs/com.ios6revive.core_0.1.1_iphoneos-arm.deb",
       "sha256": "dd199a0b2c0152346e3dd409a05ee1f04d83c147a8796513da1b59946eefb17e",
       "source": "ead5a553172761d933ddf7d3899c82522aad4f7d787d573834ea154710445dd7"
+    },
+    "0.1.2": {
+      "date": "2026-10-28",
+      "file": "debs/com.ios6revive.core_0.1.2_iphoneos-arm.deb",
+      "sha256": "64abe26ed288b1c7c08f10e1e3aa43aee2e90f690dc0f08907335e8c6aa4be2a",
+      "source": "8f8bb88522951f066e2cba9834d6bf7a61194d937a6692e48306c942654b0b63"
     }
   },
   "com.ios6revive.desktopsite": {
