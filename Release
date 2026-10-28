@@ -6,16 +6,16 @@ Codename: ios6revive
 Architectures: iphoneos-arm
 Components: main
 Description: New iOS features in iOS 6 style
-Date: Wed, 28 Oct 2026 23:29:32 GMT
+Date: Wed, 28 Oct 2026 23:48:53 GMT
 MD5Sum:
- aae90d077de70fa1bd1ecbb94e194f39 23002 Packages
- 770c4afdc12308b3776d85c5abbe11b6 4294 Packages.gz
- 8e86f3cd6fa22d8b0e16f56b9b92dc98 4250 Packages.bz2
+ ad6abb7a711e1d62125e6b9ffb9f67e0 23874 Packages
+ f2730fa54f47604ee0950f37b595e9e1 4401 Packages.gz
+ f17cec66b3dbefad0fc479fdc63f4d12 4339 Packages.bz2
 SHA1:
- 8fe2454f001acef1c4f8a60fdebc08df74b45481 23002 Packages
- dd97dcc1e77690ba03049432c7ee25020a448ddd 4294 Packages.gz
- 50c5a27844a33eedeb2661dc03b294e7740cc4cf 4250 Packages.bz2
+ 37a06411f00105bd012e45261f4228d60bc941b2 23874 Packages
+ 9cada045202292fb72eecd78539172661d55cab3 4401 Packages.gz
+ f909baf188d3560070da8f16e26663b14daddabc 4339 Packages.bz2
 SHA256:
- b84842a61badad09b3cb944f94694eb4995913e193e1e2dadcca86f6f6cc2bd2 23002 Packages
- cacdf88135fb6be31a7801341b4bc00cce9abef07b8360af3dd2a3b871044240 4294 Packages.gz
- 414023a6d54c5a5dd1af0860ba078b5434dcfa4e8a52183be7e6cef701106fda 4250 Packages.bz2
+ f9bef0c67bb44d9c36b9c7a04ba91232616b10fd30b6f96f6e3ea17b1c01557a 23874 Packages
+ 8a71939ed336021519e9acb9c61b042b943f2c674b76921be33eefc421b03507 4401 Packages.gz
+ 3394034c7d80bdce4930e5b7ce96b4621f17bb4c57e5a4fb7d92160a4af84509 4339 Packages.bz2

@@ -169,6 +169,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcente
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.controlcenter
+Name: Пункт управления
+Description: Control Center (iOS 7) in iOS 6 style, opened with an Activator gesture
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.5), libactivator
+Architecture: iphoneos-arm
+Version: 0.3.2
+Installed-Size: 96
+Filename: debs/com.ios6revive.controlcenter_0.3.2_iphoneos-arm.deb
+Size: 28194
+MD5sum: ab5394cf6e1d958eb824ee74e87c6aee
+SHA1: aa48746d96a722d2bf9a33517e5718287f54abd0
+SHA256: 39de3a2466f3dc3c403ae344c2128f2aa8141926e5f0026d8b8582148e691a9c
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.core
 Name: iOS6Revive
 Description: iOS6Revive core: Settings pane and shared services
