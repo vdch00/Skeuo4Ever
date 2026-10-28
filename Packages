@@ -74,6 +74,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.desktopsite
+Name: Полная версия сайта
+Description: Request Desktop Site in the Safari share sheet (iOS 9)
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 60
+Filename: debs/com.ios6revive.desktopsite_0.1.2_iphoneos-arm.deb
+Size: 7208
+MD5sum: 227a2d0dabf9b57c7e31687139c2b85c
+SHA1: f0c86e6b77f2003ba1732ebe116ca40f999a3371
+SHA256: 00804ff192b5208cd9788f79931889ef9bf6de49d03a1572a5d2778d37b630aa
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.newappdot
 Name: Метки новых программ
 Description: Blue dot next to newly installed apps (iOS 7)
