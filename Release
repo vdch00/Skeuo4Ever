@@ -1,0 +1,21 @@
+Origin: iOS6Revive
+Label: iOS6Revive
+Suite: stable
+Version: 1.0
+Codename: ios6revive
+Architectures: iphoneos-arm
+Components: main
+Description: New iOS features in iOS 6 style
+Date: Wed, 28 Oct 2026 21:38:33 GMT
+MD5Sum:
+ f50589a39b85d07b42b1fb900267c053 6517 Packages
+ fb14252f858d76efa751f729f3785502 1819 Packages.gz
+ 4e29a8c7e8d19ebfa0896f2881d47542 1903 Packages.bz2
+SHA1:
+ 37062be9df7017a9b5883bff5bb951cea31cd4b3 6517 Packages
+ f2e7b6c83b1aecc2e54e65fc16eb78d536318c95 1819 Packages.gz
+ d0152186ce464b45ae3160c690e2bce7d82ae2b9 1903 Packages.bz2
+SHA256:
+ b5e907f5202f844d5b647f9f647f4b6c88cec52b0d9d050c126662652f3f45a4 6517 Packages
+ 676a7564f694776c6255a1992fd0bc5272286b4895690887e3fc7acd8644d098 1819 Packages.gz
+ 20ea4f2a0c05162327eeca04d19c8811a7b0d6e3d49d842df9602b0ffd3d74d8 1903 Packages.bz2

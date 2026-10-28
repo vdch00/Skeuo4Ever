@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Смахивание назад</title>
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+<div class="page depiction">
+<div class="hero" id="hero"><img src="icon.png" alt=""><h1>Смахивание назад</h1></div>
+<script>
+  // В Cydia заголовок с иконкой уже есть
+  if (navigator.userAgent.indexOf("Cydia") >= 0) document.getElementById("hero").style.display = "none";
+</script>
+<div class="group"><p>Жест из iOS 7: проведите пальцем от левого края экрана вправо, чтобы вернуться на предыдущий экран.</p><p>Анимация — как в iOS 6: оба экрана едут вместе, с лёгкой тенью по краю. Если отпустить палец раньше середины, экран вернётся на место.</p></div>
+<h2>Когда жест не срабатывает</h2>
+<div class="group"><ul><li>на первом экране программы;</li><li>если вместо кнопки «Назад» стоит своя кнопка, например «Отменить», — как в iOS 7;</li><li>сразу после поворота экрана: жест снова заработает после следующего перехода.</li></ul></div>
+<h2>Настройки</h2>
+<div class="group"><p>Настройки → iOS6Revive → Смахивание назад.</p></div>
+<h2>Подробности</h2>
+<ul class="group">
+<li class="row">Совместимость<em>iOS 6.0 – 6.1.x</em></li>
+<li class="row">Разработчик<em>BreezeAreaSay</em></li>
+</ul>
+<h2>Версии</h2>
+<ul class="group">
+<li class="row">0.1.1<em>2026-10-28</em></li>
+</ul>
+</div>
+</body>
+</html>

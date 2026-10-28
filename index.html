@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>iOS6Revive</title>
+<link rel="apple-touch-icon" href="CydiaIcon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="bar">iOS6Revive</div>
+<div class="page">
+  <div class="hero">
+    <img src="CydiaIcon.png" alt="">
+    <h1>iOS6Revive</h1>
+    <p>Функции новых iOS в стиле iOS 6</p>
+  </div>
+
+  <a class="button" id="add" href="#">Добавить в Cydia</a>
+  <p class="footer">Или вручную: Cydia → Источники → Правка → Добавить<br><code id="source"></code></p>
+
+  <h2>Быстрые победы</h2>
+  <ul class="group">
+    <li class="pkg"><a href="depictions/com.ios6revive.swipeback/"><img src="depictions/com.ios6revive.swipeback/icon.png" alt=""><b>Смахивание назад</b><span>Жест от левого края экрана из iOS 7 с анимацией сдвига iOS 6.</span></a></li>
+    <li class="pkg"><a href="depictions/com.ios6revive.battery/"><img src="depictions/com.ios6revive.battery/icon.png" alt=""><b>Энергосбережение и аккумулятор</b><span>Режим из iOS 9 с жёлтой батарейкой и «Состояние аккумулятора» из iOS 11.3.</span></a></li>
+    <li class="pkg"><a href="depictions/com.ios6revive.nightshift/"><img src="depictions/com.ios6revive.nightshift/icon.png" alt=""><b>Night Shift</b><span>Тёплые цвета по расписанию или вручную, как в iOS 9.3.</span></a></li>
+    <li class="pkg"><a href="depictions/com.ios6revive.newappdot/"><img src="depictions/com.ios6revive.newappdot/icon.png" alt=""><b>Метки новых программ</b><span>Глянцевая синяя точка у только что установленной программы.</span></a></li>
+    <li class="pkg"><a href="depictions/com.ios6revive.boldtext/"><img src="depictions/com.ios6revive.boldtext/icon.png" alt=""><b>Жирный шрифт</b><span>Параметр из iOS 7 для всех программ.</span></a></li>
+    <li class="pkg"><a href="depictions/com.ios6revive.desktopsite/"><img src="depictions/com.ios6revive.desktopsite/icon.png" alt=""><b>Полная версия сайта</b><span>Пункт в меню «Поделиться» Safari, как в iOS 9.</span></a></li>
+  </ul>
+  <p class="footer">Всё настраивается в Настройках → iOS6Revive. Пакеты рассчитаны на iOS 6.0–6.1.x.</p>
+</div>
+<script>
+  // Адрес источника — это адрес этой страницы, на каком бы домене она ни лежала.
+  (function () {
+    var source = location.href.replace(/[#?].*$/, "").replace(/index\.html$/, "");
+    if (source.charAt(source.length - 1) !== "/") source += "/";
+    document.getElementById("source").textContent = source;
+    document.getElementById("add").href = "cydia://url/https://cydia.saurik.com/api/share#?source=" + source;
+  })();
+</script>
+</body>
+</html>

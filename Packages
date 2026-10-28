@@ -1,0 +1,150 @@
+Package: com.ios6revive.battery
+Name: Энергосбережение и аккумулятор
+Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.1
+Installed-Size: 60
+Filename: debs/com.ios6revive.battery_0.1.1_iphoneos-arm.deb
+Size: 9240
+MD5sum: 96f832d790ac2e61912f530da5a918a8
+SHA1: 19ade05bac02e7f3104c7607fbe4c1fc352d3107
+SHA256: 63d980eea1d8018bc9f2dd3dfc65e12fda7be7c369710cfd597a00cf6009051c
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.boldtext
+Name: Жирный шрифт
+Description: Bold Text accessibility option (iOS 7)
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.1
+Installed-Size: 56
+Filename: debs/com.ios6revive.boldtext_0.1.1_iphoneos-arm.deb
+Size: 3984
+MD5sum: 5a27449e8b8ec35787d227b5b0447817
+SHA1: e91220f7f41941adbd42be961e6ccfc1a867e26e
+SHA256: 2b317b9b24c9761224d5965602f649119c248c2a9d91ea2f71f828aa4cfe6a2f
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.core
+Name: iOS6Revive
+Description: iOS6Revive core: Settings pane and shared services
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Architecture: iphoneos-arm
+Version: 0.1.1
+Installed-Size: 116
+Filename: debs/com.ios6revive.core_0.1.1_iphoneos-arm.deb
+Size: 24514
+MD5sum: a5e3a9966473fa90a122214816655f96
+SHA1: db29f3ebfa20f144252d8dcc60e05b766a48d009
+SHA256: dd199a0b2c0152346e3dd409a05ee1f04d83c147a8796513da1b59946eefb17e
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.desktopsite
+Name: Полная версия сайта
+Description: Request Desktop Site in the Safari share sheet (iOS 9)
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.1
+Installed-Size: 56
+Filename: debs/com.ios6revive.desktopsite_0.1.1_iphoneos-arm.deb
+Size: 6804
+MD5sum: d491374594f87a2b87c8cf5491e72b1b
+SHA1: 8c21fada96facfbf9e96aa373f2bc9643baf6961
+SHA256: c66213edb8bcafd200d07e612865a33fb4366b6c8b0bd067adc7a9b34e521f74
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.newappdot
+Name: Метки новых программ
+Description: Blue dot next to newly installed apps (iOS 7)
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.1
+Installed-Size: 60
+Filename: debs/com.ios6revive.newappdot_0.1.1_iphoneos-arm.deb
+Size: 8362
+MD5sum: 592b5c331a2ba149cb319b2805f4b434
+SHA1: 285fb648f6fac65f1c41498cfa68448c4d9a364b
+SHA256: 12e08d990af94cb858b783e54f091d775190f835a96d347962faeea2bb4f5abb
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.nightshift
+Name: Night Shift
+Description: Night Shift (iOS 9.3): warm display colors on a schedule
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.1
+Installed-Size: 56
+Filename: debs/com.ios6revive.nightshift_0.1.1_iphoneos-arm.deb
+Size: 7634
+MD5sum: 0ee63dac155c00a0bff1e971622bb516
+SHA1: 5a877e37575def1babe1e58ada575add264dc811
+SHA256: 6d5589277e373035bea02a8a6a6a9703041059fba0cf068ae7c61884d1414a38
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.quickwins
+Name: iOS6Revive: быстрые победы
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: All stage 1 features of iOS6Revive in one package
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: com.ios6revive.swipeback, com.ios6revive.battery, com.ios6revive.nightshift, com.ios6revive.newappdot, com.ios6revive.boldtext, com.ios6revive.desktopsite
+Filename: debs/com.ios6revive.quickwins_0.1.1_iphoneos-arm.deb
+Size: 674
+MD5sum: 6b7f5da5292633490d0256ea8858ab4a
+SHA1: d543e6536c458f15d78fb5599545c10e0ab0dffe
+SHA256: 490e2217b8d65844e419fc4104dd6f3d4798a70d4d37e3bc86aceda20c913e1c
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.swipeback
+Name: Смахивание назад
+Description: Swipe from the left edge to go back (iOS 7) with iOS 6 animation
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.1
+Installed-Size: 60
+Filename: debs/com.ios6revive.swipeback_0.1.1_iphoneos-arm.deb
+Size: 10980
+MD5sum: e60dd1009bf56980c5fc32d0f89b110d
+SHA1: 146c72b82b2685e3f645674eb46e5bc533564fff
+SHA256: f3820d52fca0f2392599b3b8f135a589ea10e3ad47e3a0a4ae280c72c4628894
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/
+Homepage: https://vdch00.github.io/iOS6Revive/
