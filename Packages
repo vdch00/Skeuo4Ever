@@ -93,6 +93,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.pn
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.core
+Name: iOS6Revive
+Description: iOS6Revive core: Settings pane and shared services
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 136
+Filename: debs/com.ios6revive.core_0.1.3_iphoneos-arm.deb
+Size: 26014
+MD5sum: a20525e7ee1b49b5b65bd187b077def6
+SHA1: 719db427060b09121e96db7bdca0879e672abcb4
+SHA256: 7d92311e57e0565591cca4b8b9b8c380ee2b812dd45776ef483331b5287ddef5
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.desktopsite
 Name: Полная версия сайта
 Description: Request Desktop Site in the Safari share sheet (iOS 9)
@@ -129,6 +148,25 @@ SHA1: f0c86e6b77f2003ba1732ebe116ca40f999a3371
 SHA256: 00804ff192b5208cd9788f79931889ef9bf6de49d03a1572a5d2778d37b630aa
 Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/icon.png
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.keyboardcursor
+Name: Курсор свайпом по пробелу
+Description: Move the text cursor by swiping on the space bar (iOS 12)
+Maintainer: BreezeAreaSay
+Author: BreezeAreaSay
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
+Architecture: iphoneos-arm
+Version: 0.2.0
+Installed-Size: 68
+Filename: debs/com.ios6revive.keyboardcursor_0.2.0_iphoneos-arm.deb
+Size: 8410
+MD5sum: f45b9ad9ea6d947bbbf8b1f06b3b2d2d
+SHA1: 18a9d734c2977979aa2d33d32380fbb4e5d09dd5
+SHA256: c9564267ea46055c64bd9ef146ec5f8dc7ca988a67fe5d8d1b8ce07bd8245b66
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
 Package: com.ios6revive.newappdot
