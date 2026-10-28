@@ -17,6 +17,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/icon
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.battery
+Name: Энергосбережение и аккумулятор
+Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 60
+Filename: debs/com.ios6revive.battery_0.1.2_iphoneos-arm.deb
+Size: 9246
+MD5sum: 87870ccee1ec10173b28583d850d7082
+SHA1: 3bb20fef5420468f8382aa1b1f4aaa7acfe42dfb
+SHA256: f834da47f65b69f4dccf7c874f1325804a408ebc337023258821118afcd49973
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.boldtext
 Name: Жирный шрифт
 Description: Bold Text accessibility option (iOS 7)
@@ -36,6 +55,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/ico
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.boldtext
+Name: Жирный шрифт
+Description: Bold Text accessibility option (iOS 7)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 56
+Filename: debs/com.ios6revive.boldtext_0.1.2_iphoneos-arm.deb
+Size: 3986
+MD5sum: 350824eabd60e2400c26d2be3f632d9f
+SHA1: 90b90c7dccfb1fa774b47996e6e57a072f381677
+SHA256: 5a1afc01ebeed325d22cca69561cc9d0a954387310df06d2c6dcd4029112bbae
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.controlcenter
 Name: Пункт управления
 Description: Control Center (iOS 7) in iOS 6 style: swipe up from the bottom edge
@@ -51,6 +89,25 @@ Size: 20884
 MD5sum: 48dc3261097189e08929a52808cb067a
 SHA1: aff5c362375ae5d846b05c0f6d7e6ba8b41d11b2
 SHA256: 44bc4d73e4ec036b1bb4770bad9fd2f9227d4e1428e90368e951a281c78d49cd
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.controlcenter
+Name: Пункт управления
+Description: Control Center (iOS 7) in iOS 6 style: swipe up from the bottom edge
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.2)
+Architecture: iphoneos-arm
+Version: 0.2.1
+Installed-Size: 80
+Filename: debs/com.ios6revive.controlcenter_0.2.1_iphoneos-arm.deb
+Size: 20888
+MD5sum: debb13cf7e35561640b6b46bef72e7f0
+SHA1: 1639704232143a1845a8d90bcb4a8a3c00d73276
+SHA256: a43bdcc3f8e53c8875bdea9f9e6e850344ae20d7ca1fb0ef5ccd95eb6c1b3fb8
 Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
 Homepage: https://vdch00.github.io/iOS6Revive/
@@ -112,6 +169,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.pn
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.core
+Name: iOS6Revive
+Description: iOS6Revive core: Settings pane and shared services
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Architecture: iphoneos-arm
+Version: 0.1.4
+Installed-Size: 136
+Filename: debs/com.ios6revive.core_0.1.4_iphoneos-arm.deb
+Size: 26014
+MD5sum: 2c5e7e0f716bb583e4380346f89a7a9f
+SHA1: 153ad779671c114bbfdae183e1e3a3770cff00f4
+SHA256: 1191291d6f80ac6a678845582228db097b6a60976b6e1faed147a06950eda141
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.desktopsite
 Name: Полная версия сайта
 Description: Request Desktop Site in the Safari share sheet (iOS 9)
@@ -150,6 +226,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.desktopsite
+Name: Полная версия сайта
+Description: Request Desktop Site in the Safari share sheet (iOS 9)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 60
+Filename: debs/com.ios6revive.desktopsite_0.1.3_iphoneos-arm.deb
+Size: 7218
+MD5sum: 3436787be66bceb5187a08ff33e69d6c
+SHA1: f1d392fa561b949b8eb947be869e98f1c49b59f2
+SHA256: 87bd1f90559fa96b99f7884ad3bc4150c611cc5665463dbf6cd6298af3aea7d6
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.keyboardcursor
 Name: Курсор свайпом по пробелу
 Description: Move the text cursor by swiping on the space bar (iOS 12)
@@ -165,6 +260,25 @@ Size: 8410
 MD5sum: f45b9ad9ea6d947bbbf8b1f06b3b2d2d
 SHA1: 18a9d734c2977979aa2d33d32380fbb4e5d09dd5
 SHA256: c9564267ea46055c64bd9ef146ec5f8dc7ca988a67fe5d8d1b8ce07bd8245b66
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.keyboardcursor
+Name: Курсор свайпом по пробелу
+Description: Move the text cursor by swiping on the space bar (iOS 12)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
+Architecture: iphoneos-arm
+Version: 0.2.1
+Installed-Size: 68
+Filename: debs/com.ios6revive.keyboardcursor_0.2.1_iphoneos-arm.deb
+Size: 8414
+MD5sum: e241bd51a92d88291e167d4dd11475ad
+SHA1: df1fc8c27705a7920cfb2cec55adf3805d16eef7
+SHA256: f28addd0a9a63ab7633f617875300e1494c3a894d8d9ac1391654e02e9fe1e58
 Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/icon.png
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/
 Homepage: https://vdch00.github.io/iOS6Revive/
@@ -188,6 +302,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/ic
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.newappdot
+Name: Метки новых программ
+Description: Blue dot next to newly installed apps (iOS 7)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 60
+Filename: debs/com.ios6revive.newappdot_0.1.2_iphoneos-arm.deb
+Size: 8364
+MD5sum: 1b706331d2027c7b5494b3c16864c42e
+SHA1: c7a810cef9369f2946d9c19e92b6cb31043dfac7
+SHA256: c98dcbf16fd1b4d393e91cb55e4d0ad68e25a737562aed3fac0394512da0d814
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.nightshift
 Name: Night Shift
 Description: Night Shift (iOS 9.3): warm display colors on a schedule
@@ -203,6 +336,25 @@ Size: 7634
 MD5sum: 0ee63dac155c00a0bff1e971622bb516
 SHA1: 5a877e37575def1babe1e58ada575add264dc811
 SHA256: 6d5589277e373035bea02a8a6a6a9703041059fba0cf068ae7c61884d1414a38
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.nightshift
+Name: Night Shift
+Description: Night Shift (iOS 9.3): warm display colors on a schedule
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 56
+Filename: debs/com.ios6revive.nightshift_0.1.2_iphoneos-arm.deb
+Size: 7644
+MD5sum: 1a1fef21f5973a2906147b6d7a3ac163
+SHA1: f43ac88934b693b01c74a3cf4906bc3bc6540d42
+SHA256: 537405f5e75fe13e07869319e7aae4ccb948acebede22813ba74b9c195545b91
 Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/icon.png
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/
 Homepage: https://vdch00.github.io/iOS6Revive/
@@ -225,6 +377,24 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/ic
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.quickwins
+Name: iOS6Revive: быстрые победы
+Version: 0.1.2
+Architecture: iphoneos-arm
+Description: All stage 1 features of iOS6Revive in one package
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: com.ios6revive.swipeback, com.ios6revive.battery, com.ios6revive.nightshift, com.ios6revive.newappdot, com.ios6revive.boldtext, com.ios6revive.desktopsite
+Filename: debs/com.ios6revive.quickwins_0.1.2_iphoneos-arm.deb
+Size: 682
+MD5sum: 552ff693fa453960ddc1a0bc6ed26583
+SHA1: deb109093424f1e06db188186a8b2808ee096c96
+SHA256: 9862e3ebb919a77e69275d2a3715078d241e04488fea3c18744fe113926212d9
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.swipeback
 Name: Смахивание назад
 Description: Swipe from the left edge to go back (iOS 7) with iOS 6 animation
@@ -240,6 +410,25 @@ Size: 10980
 MD5sum: e60dd1009bf56980c5fc32d0f89b110d
 SHA1: 146c72b82b2685e3f645674eb46e5bc533564fff
 SHA256: f3820d52fca0f2392599b3b8f135a589ea10e3ad47e3a0a4ae280c72c4628894
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
+Package: com.ios6revive.swipeback
+Name: Смахивание назад
+Description: Swipe from the left edge to go back (iOS 7) with iOS 6 animation
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 60
+Filename: debs/com.ios6revive.swipeback_0.1.2_iphoneos-arm.deb
+Size: 10992
+MD5sum: a24f3427b35905f6ff78a23fba08670d
+SHA1: d8a6195854b7987a3ecb047c1608506ff4858989
+SHA256: 397b46467a3dd2121192b5bc8ebfaf119b7759800396ff4c0f9c159b64f3bba7
 Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/icon.png
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/
 Homepage: https://vdch00.github.io/iOS6Revive/
