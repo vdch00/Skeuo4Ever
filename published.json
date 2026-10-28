@@ -39,6 +39,12 @@
       "file": "debs/com.ios6revive.controlcenter_0.2.1_iphoneos-arm.deb",
       "sha256": "a43bdcc3f8e53c8875bdea9f9e6e850344ae20d7ca1fb0ef5ccd95eb6c1b3fb8",
       "source": "21b6670638b747982932d12f154d5fe915cf95d63c19ddecffab8e6595f7901b"
+    },
+    "0.2.2": {
+      "date": "2026-10-28",
+      "file": "debs/com.ios6revive.controlcenter_0.2.2_iphoneos-arm.deb",
+      "sha256": "cdd8a946ff81c60c72725a4d2d8c32810155598c95aa3c9e9ee9187beae9d9d6",
+      "source": "219088b4b9b08af733eb48f055335ba527a77969c16451eb6e100b9c8b27a4f1"
     }
   },
   "com.ios6revive.core": {
