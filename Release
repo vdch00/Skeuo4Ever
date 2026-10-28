@@ -6,16 +6,16 @@ Codename: ios6revive
 Architectures: iphoneos-arm
 Components: main
 Description: New iOS features in iOS 6 style
-Date: Wed, 28 Oct 2026 23:13:33 GMT
+Date: Wed, 28 Oct 2026 23:25:31 GMT
 MD5Sum:
- d208aef1d9d02a0fdb4e0e44b1505e01 21300 Packages
- ee06d7fd4fd975ce0dcba654e6e4fc24 3997 Packages.gz
- 65ace01cfc63c282424a745067fc651f 3986 Packages.bz2
+ f3172ccc28335165277f820304203f41 22172 Packages
+ 5207d92248ddaf659584d9525dfa0ffe 4109 Packages.gz
+ c506810e6cf9455c191c90c7a1299b22 4120 Packages.bz2
 SHA1:
- 5b2db77abef7714e7a0fa89b43469b688b5023ab 21300 Packages
- 2a30c598f689213c3ebc9b88b77f6be7d82ea0fc 3997 Packages.gz
- e74b98f445720f573e1ae98beeadcfdf3f18d4df 3986 Packages.bz2
+ fcc22dd20b4dd6e72aadeb8aee83743877c85b91 22172 Packages
+ ed0d6cf64907f1ce2deb823e92fb7e47b77a7050 4109 Packages.gz
+ 919fc2b7c525e3bc8fca9eb9804a22276db067a3 4120 Packages.bz2
 SHA256:
- 148e5d9755bef7217f36a1cf1c8fe39b2c29f4d95372d8be9844a30daca84df0 21300 Packages
- 0746997839c6e1da95d9f11e29e5e765dd0960ad72a3e7f07e9ccd3de4db22c1 3997 Packages.gz
- 6a935d68fcfa11fc2af955598296a3de0a976645ccc5eb3b1deb7e7926089149 3986 Packages.bz2
+ 9d3b7182f8da39a071590ed756c186abb41f6a3912977e02c5cfb9f7fcae3032 22172 Packages
+ e2043b0b4bce3e6b4cc9922b6f08b81ed808db9841de7827b5e544ad5de49897 4109 Packages.gz
+ 2ab1c8aea2d6246e57a18c305347daba56798153b45f159bb4b664637907c689 4120 Packages.bz2
