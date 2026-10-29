@@ -108,6 +108,24 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever
+Name: Skeuo4Ever
+Version: 0.5.2
+Architecture: iphoneos-arm
+Description: Every Skeuo4Ever feature in one package: modern iOS features, skeuomorphic forever
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: com.skeuo4ever.swipeback, com.skeuo4ever.battery, com.skeuo4ever.nightshift, com.skeuo4ever.newsash, com.skeuo4ever.boldtext, com.skeuo4ever.desktopsite, com.skeuo4ever.controlcenter, com.skeuo4ever.keyboardcursor, com.skeuo4ever.screenshot, com.skeuo4ever.cameratimer, com.skeuo4ever.settingssearch, com.skeuo4ever.darkmode
+Filename: debs/com.skeuo4ever_0.5.2_iphoneos-arm.deb
+Size: 700
+MD5sum: ffc5d10414f7456c60942d6f9c60e2cf
+SHA1: b8841de9c7fa7890d98eb75e14fce8263f1debf4
+SHA256: 4b6b1eb2d17f5a6f4a1058282d798ea78a1cf3ce1b3fefb0f57396e262c272c3
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.battery
 Name: Low Power Mode & Battery Health
 Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
@@ -186,6 +204,25 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.battery/icon
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.battery/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever.battery
+Name: Low Power Mode & Battery Health
+Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 60
+Filename: debs/com.skeuo4ever.battery_0.5.2_iphoneos-arm.deb
+Size: 9844
+MD5sum: 459a8cca2fc70a87c76734e6286b5a35
+SHA1: 492c94b89449c44861e09d1a80537e8c9d6e8e9f
+SHA256: e8febffe885d0ed9fbf0a70feb7aed962c85a31d9531cf5fd9dbc736db0f52e7
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.battery/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.battery/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.boldtext
 Name: Bold Text
 Description: Bold Text accessibility option (iOS 7)
@@ -260,6 +297,25 @@ Size: 3956
 MD5sum: bd511a16a25fc9b60ebe3d16ad28fd5b
 SHA1: 7e71a03624ba81d6516e15b85831c826c5aa278d
 SHA256: bc74cdab0be6ef4db28072ee2247faf26bddd6b2b3322e4c2cb835bafe5ad359
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.boldtext
+Name: Bold Text
+Description: Bold Text accessibility option (iOS 7)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 56
+Filename: debs/com.skeuo4ever.boldtext_0.5.2_iphoneos-arm.deb
+Size: 3958
+MD5sum: b4f35b22beab2f735f5d11283d1129f2
+SHA1: 01d7a0a9aa53404bd816ef67e40991cc42995c1a
+SHA256: 4e7d283709e2d67599796433eb028b1973db3c0675cb281e441726d3065c91d7
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
@@ -359,6 +415,25 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever.cameratimer
+Name: Camera Timer
+Description: A 3 or 10 second self-timer in the Options panel of Camera (iOS 8)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 72
+Filename: debs/com.skeuo4ever.cameratimer_0.5.2_iphoneos-arm.deb
+Size: 13230
+MD5sum: 6dd3e2fe12fd411c8d352b324c7275f0
+SHA1: 66f63d7cdb89a58f192b2b8fc82e07b3f0f73824
+SHA256: 854b792c98929f1d60e0d9dd92e5bc063567e26df017a4d5d375840827ab684f
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.controlcenter
 Name: Control Center
 Description: Control Center (iOS 7) in skeuomorphic style, opened with an Activator gesture
@@ -433,6 +508,25 @@ Size: 28864
 MD5sum: 8514ec48d932e3aec86ed71c396dc86b
 SHA1: 00a85afeb9524f1b34a0e7e14bfa442dc8faf837
 SHA256: 629ce956319c82cc2139ffb92b2dc4b368965a1f456d5e5ab098a4ff91de4577
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.controlcenter/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.controlcenter/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.controlcenter
+Name: Control Center
+Description: Control Center (iOS 7) in skeuomorphic style, opened with an Activator gesture
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0), libactivator
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 96
+Filename: debs/com.skeuo4ever.controlcenter_0.5.2_iphoneos-arm.deb
+Size: 28864
+MD5sum: 8a9ad3224c07bc4b97e832e2761abfc0
+SHA1: c870b3309a083e57b00314f79a9afae233ecd2fd
+SHA256: dd063b79c6b087578dd8103edb64c669b91d26f066f76f619194b9c79e37cd16
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.controlcenter/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.controlcenter/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
@@ -515,6 +609,25 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.core/icon.pn
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.core/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever.core
+Name: Skeuo4Ever Core
+Description: Skeuo4Ever core: Settings pane and shared services
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 136
+Filename: debs/com.skeuo4ever.core_0.5.2_iphoneos-arm.deb
+Size: 34844
+MD5sum: ce20b7d01d50850f61b90c2b48d7482d
+SHA1: e55075215c9632f8d1ec5536434b5e130c9e47e6
+SHA256: 381513c52c13d3528e03eb13cbf135c4749ece1545560952ca407f4a1dfcd9e6
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.core/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.core/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.darkmode
 Name: Dark Mode
 Description: Dark Mode from iOS 13, built from iOS 6's own dark materials: black glass bars, dark linen, the dark keyboard
@@ -549,6 +662,25 @@ Size: 26396
 MD5sum: c710549b9651f3e4930b6e19eb0b3e1f
 SHA1: e1038a936e7baefc0c057aec17b632445ad18ed1
 SHA256: 7088c3707e67ca33c33dc3f458f4f812d34b7dc7e209738f442b3783847b6c63
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.darkmode/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.darkmode/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.darkmode
+Name: Dark Mode
+Description: Dark Mode from iOS 13, built from iOS 6's own dark materials: black glass bars, dark linen, the dark keyboard
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.2)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 96
+Filename: debs/com.skeuo4ever.darkmode_0.5.2_iphoneos-arm.deb
+Size: 28336
+MD5sum: 2e36ff2a4244c020c6359a72d12eae1f
+SHA1: 7612e77a114e4bd7859139dd221dbba28c28f18c
+SHA256: a65e306d65dc0d4d3110cffcea89e6bca2bd2bce99e0230f8001b6e590a7b627
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.darkmode/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.darkmode/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
@@ -631,6 +763,25 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.desktopsite/
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.desktopsite/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever.desktopsite
+Name: Request Desktop Site
+Description: Request Desktop Site in the Safari share sheet (iOS 9)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 60
+Filename: debs/com.skeuo4ever.desktopsite_0.5.2_iphoneos-arm.deb
+Size: 7830
+MD5sum: 8f00dd6c64a1f626c8e20c73caae1e42
+SHA1: c1b05a111c1d132dda108f3776bade90ffbb4994
+SHA256: 062b5cb3a24fbae838cb5d2ee913fc020cfe2c4fac115faa889b8afbbd6d9fdc
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.desktopsite/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.desktopsite/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.keyboardcursor
 Name: Space Bar Cursor
 Description: Move the text cursor by swiping on the space bar (iOS 12)
@@ -705,6 +856,25 @@ Size: 8500
 MD5sum: dbe02874ee103df48f4c31bb09830684
 SHA1: 3f85234a9cdb34aa7498c488d4df0c01f0042ee4
 SHA256: dc33c0e9751a484739a981b9255548595b6c2e4d4d85305af999e04943ceac52
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.keyboardcursor/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.keyboardcursor/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.keyboardcursor
+Name: Space Bar Cursor
+Description: Move the text cursor by swiping on the space bar (iOS 12)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 68
+Filename: debs/com.skeuo4ever.keyboardcursor_0.5.2_iphoneos-arm.deb
+Size: 8502
+MD5sum: 2881c4d9b8195153b3c78d5cc66c7105
+SHA1: 8d800f655f37881671afc73c39687557f05af03b
+SHA256: c071ed93ab2b08c3cec46ece6043d1b41305e2ed40226c5486765589271e0558
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.keyboardcursor/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.keyboardcursor/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
@@ -787,6 +957,25 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.newsash/icon
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.newsash/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever.newsash
+Name: New App Sash
+Description: The iOS 6 New sash on every newly installed app, including ipa and Cydia apps
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 60
+Filename: debs/com.skeuo4ever.newsash_0.5.2_iphoneos-arm.deb
+Size: 8942
+MD5sum: 74eb60b017e1af8afe9a0ca216992c7d
+SHA1: 9e61739eeb4e1be5d22dcadd767d0d0b0700dade
+SHA256: c919f6bee443222eeb65bc4e506ef6503be83295409d7ceeac75beb1adadfaf1
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.newsash/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.newsash/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.nightshift
 Name: Night Shift
 Description: Night Shift (iOS 9.3): warm display colors on a schedule
@@ -861,6 +1050,25 @@ Size: 7532
 MD5sum: a84ed39a6d839f68584dcb56a6e748ef
 SHA1: 3c2f8e632a6dc1b021c66c34ef0215a4100bd637
 SHA256: 53566beeaa3c435da005879eb80f6cdf6d92da478abf02beafc248eae386140c
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.nightshift/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.nightshift/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.nightshift
+Name: Night Shift
+Description: Night Shift (iOS 9.3): warm display colors on a schedule
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 56
+Filename: debs/com.skeuo4ever.nightshift_0.5.2_iphoneos-arm.deb
+Size: 7542
+MD5sum: 17e0437ec95e596aac7b1803ce2ac2c0
+SHA1: 95434c93c2635fcfd45453099c787d11122b6bd4
+SHA256: 0ea3f90a75f40582dabad3f2c2e78916b08ca7190877cb4c3e2fe1847ee7ac9e
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.nightshift/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.nightshift/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
@@ -943,6 +1151,25 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/i
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever.screenshot
+Name: Screenshot Preview
+Description: Screenshot thumbnail in the corner with markup (iOS 11)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 108
+Filename: debs/com.skeuo4ever.screenshot_0.5.2_iphoneos-arm.deb
+Size: 25738
+MD5sum: e8b88a3025f25e1d00c1c6c25ac07d2c
+SHA1: fb39d8f1e128ac3c3e511ff28880c1fea395c2e5
+SHA256: bd93205d1a7c40bbb2d09b92020193d27a611e4b8bc08d7a0e6718fed464ab4b
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.settingssearch
 Name: Settings Search
 Description: A search bar at the top of Settings that finds any setting and takes you there (iOS 9)
@@ -996,6 +1223,25 @@ Size: 17800
 MD5sum: 750ccbea8f260b1d3b1b3b25a712be82
 SHA1: fbcd8094d9f5c9decd14eec2588fe2e5a354f028
 SHA256: ddf9cf09abc0c8c87a02e0c7313f0a11895cc808653dad6e0305b542407ca85b
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.settingssearch/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.settingssearch/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.settingssearch
+Name: Settings Search
+Description: A search bar at the top of Settings that finds any setting and takes you there (iOS 9)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 88
+Filename: debs/com.skeuo4ever.settingssearch_0.5.2_iphoneos-arm.deb
+Size: 17798
+MD5sum: 9a5ed8d9acf21e3102731b7525fa8032
+SHA1: f7c04b8bf793318a9d28e5fcbdcc28b313a141ff
+SHA256: 55531aa6539ff4b23fef8d92fffcf3ab8cebdfa2bf44790768780ce8e4a6bf9e
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.settingssearch/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.settingssearch/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
@@ -1074,6 +1320,25 @@ Size: 10972
 MD5sum: ffd340d41c3f95f57e7bbed250ccc184
 SHA1: 979f51873f8096f34f5a278d6168fb2ceaaf7807
 SHA256: 12196ec430d0dc781cecb01d68ed98507f8e4c89af2ad5dc7d59f68672647aaf
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.swipeback/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.swipeback/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.swipeback
+Name: Swipe Back
+Description: Swipe from the left edge to go back (iOS 7) with the iOS 6 slide animation
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.5.0)
+Architecture: iphoneos-arm
+Version: 0.5.2
+Installed-Size: 60
+Filename: debs/com.skeuo4ever.swipeback_0.5.2_iphoneos-arm.deb
+Size: 10972
+MD5sum: 0f69ce28d90d53e23d4f99880b350cd6
+SHA1: 2f2392d9eb153a15d6a480315bf7344c51be5532
+SHA256: 25c7a91fee155e9bf4edb9cf5f6036ad49d4fb25464ec73faa4f941fd05a4a59
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.swipeback/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.swipeback/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
