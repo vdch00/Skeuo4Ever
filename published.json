@@ -65,6 +65,12 @@
       "file": "debs/com.skeuo4ever.cameratimer_0.4.2_iphoneos-arm.deb",
       "sha256": "db2dc42b9738ea67d63e79dcad37ed03c0e2aec5098c706928b1f1bfac45e1a0",
       "source": "60b8a6cf4b67070f6bb8d8de45b92c6a8c995bec3878419b96f82dce170793b4"
+    },
+    "0.4.3": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.cameratimer_0.4.3_iphoneos-arm.deb",
+      "sha256": "342c007c25985147f695611550dbaabf41dc3e30e8ff66cc7e22a10436105802",
+      "source": "bbce666cc8798ac33444e876dfa8aa95b16d99d21175fb8f869de5a8513c13ba"
     }
   },
   "com.skeuo4ever.controlcenter": {
