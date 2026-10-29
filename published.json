@@ -17,6 +17,12 @@
       "file": "debs/com.skeuo4ever_0.4.2_iphoneos-arm.deb",
       "sha256": "fcda60fc8f93e0bdc9d0cd8713749d1363e4a9be35c3d80f70cbb293f435ef7d",
       "source": "83bf2b7f43e5a987d9acd7be59cbe65a01035a444cb5b4d069ab49f2d4f33e6a"
+    },
+    "0.4.3": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever_0.4.3_iphoneos-arm.deb",
+      "sha256": "1e8dabfe4a4055df286779f4acb9ec3d48ce7e31f72410c55248bd29524de226",
+      "source": "43d9c8a8b5ee3cd466f5efeff1525d4b2949c3c18279b18a6c3426bd952d4917"
     }
   },
   "com.skeuo4ever.battery": {
@@ -53,6 +59,12 @@
       "file": "debs/com.skeuo4ever.cameratimer_0.4.1_iphoneos-arm.deb",
       "sha256": "a9430b5d37d4719620152dcb15f16609911fa1d14be1c9e1a01d65565e16ed09",
       "source": "1fdb117e3c3140b2c00f24f2210c5283de09ac728a2109710fad58c9550a08e7"
+    },
+    "0.4.2": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.cameratimer_0.4.2_iphoneos-arm.deb",
+      "sha256": "db2dc42b9738ea67d63e79dcad37ed03c0e2aec5098c706928b1f1bfac45e1a0",
+      "source": "60b8a6cf4b67070f6bb8d8de45b92c6a8c995bec3878419b96f82dce170793b4"
     }
   },
   "com.skeuo4ever.controlcenter": {
@@ -151,6 +163,14 @@
       "file": "debs/com.skeuo4ever.screenshot_0.4.1_iphoneos-arm.deb",
       "sha256": "cd86e6b1c3c603650db6169357210c006b6a72ed75e536c697872d68a406ac6a",
       "source": "7a6f956bd0f2f570034d514323fbb9065e13258874e31a1246cdca51255716ca"
+    }
+  },
+  "com.skeuo4ever.settingssearch": {
+    "0.4.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.settingssearch_0.4.1_iphoneos-arm.deb",
+      "sha256": "f78758834e1b4e279fd08ac47d31a952e0c65871f972ea3716ffffdb0bce6fc3",
+      "source": "98d4e96541d2e3fa66aad7e2ba8dec033c39e9817f1ac345d63d79cd4ffe66fa"
     }
   },
   "com.skeuo4ever.swipeback": {

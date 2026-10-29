@@ -54,6 +54,24 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever
+Name: Skeuo4Ever
+Version: 0.4.3
+Architecture: iphoneos-arm
+Description: Every Skeuo4Ever feature in one package: modern iOS features, skeuomorphic forever
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: com.skeuo4ever.swipeback, com.skeuo4ever.battery, com.skeuo4ever.nightshift, com.skeuo4ever.newsash, com.skeuo4ever.boldtext, com.skeuo4ever.desktopsite, com.skeuo4ever.controlcenter, com.skeuo4ever.keyboardcursor, com.skeuo4ever.screenshot, com.skeuo4ever.cameratimer, com.skeuo4ever.settingssearch
+Filename: debs/com.skeuo4ever_0.4.3_iphoneos-arm.deb
+Size: 696
+MD5sum: e852dbb728ab5c2434c882e936737fbd
+SHA1: f9cab01365c6609ece426a2ac5cecb918c2d1c93
+SHA256: 1e8dabfe4a4055df286779f4acb9ec3d48ce7e31f72410c55248bd29524de226
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.battery
 Name: Low Power Mode & Battery Health
 Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
@@ -149,6 +167,25 @@ Size: 10918
 MD5sum: e90dddf7f237096e763460099a32069f
 SHA1: bc3d0d4cc682ff9c837bf70a4a109d2f43e1e94b
 SHA256: a9430b5d37d4719620152dcb15f16609911fa1d14be1c9e1a01d65565e16ed09
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.cameratimer
+Name: Camera Timer
+Description: A 3 or 10 second self-timer in the Options panel of Camera (iOS 8)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.1)
+Architecture: iphoneos-arm
+Version: 0.4.2
+Installed-Size: 72
+Filename: debs/com.skeuo4ever.cameratimer_0.4.2_iphoneos-arm.deb
+Size: 12880
+MD5sum: b85d3fa176ee8c9fe69cd2f6bf4a9901
+SHA1: 987164b54ca0b31587cdcc1d6ab359eb35a8120e
+SHA256: db2dc42b9738ea67d63e79dcad37ed03c0e2aec5098c706928b1f1bfac45e1a0
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
@@ -431,6 +468,25 @@ SHA1: e6fffc55f054bc2da95b788ecca8c236f0b11730
 SHA256: cd86e6b1c3c603650db6169357210c006b6a72ed75e536c697872d68a406ac6a
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.settingssearch
+Name: Settings Search
+Description: A search bar at the top of Settings that finds any setting and takes you there (iOS 9)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.1)
+Architecture: iphoneos-arm
+Version: 0.4.1
+Installed-Size: 88
+Filename: debs/com.skeuo4ever.settingssearch_0.4.1_iphoneos-arm.deb
+Size: 17796
+MD5sum: 5daf170e8f7226df114a30d4914f0be9
+SHA1: cfa8aab71f05c03cae056d30b21af5c52ef9d832
+SHA256: f78758834e1b4e279fd08ac47d31a952e0c65871f972ea3716ffffdb0bce6fc3
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.settingssearch/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.settingssearch/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
 Package: com.skeuo4ever.swipeback
