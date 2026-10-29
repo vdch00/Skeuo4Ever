@@ -36,6 +36,24 @@ Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
+Package: com.skeuo4ever
+Name: Skeuo4Ever
+Version: 0.4.2
+Architecture: iphoneos-arm
+Description: Every Skeuo4Ever feature in one package: modern iOS features, skeuomorphic forever
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: com.skeuo4ever.swipeback, com.skeuo4ever.battery, com.skeuo4ever.nightshift, com.skeuo4ever.newsash, com.skeuo4ever.boldtext, com.skeuo4ever.desktopsite, com.skeuo4ever.controlcenter, com.skeuo4ever.keyboardcursor, com.skeuo4ever.screenshot, com.skeuo4ever.cameratimer
+Filename: debs/com.skeuo4ever_0.4.2_iphoneos-arm.deb
+Size: 680
+MD5sum: 109bbaa936f2acc90585b617734863a0
+SHA1: 7317f416286328e17a231a0a39892e6038454e10
+SHA256: fcda60fc8f93e0bdc9d0cd8713749d1363e4a9be35c3d80f70cbb293f435ef7d
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
 Package: com.skeuo4ever.battery
 Name: Low Power Mode & Battery Health
 Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
@@ -114,6 +132,25 @@ SHA1: 80f8a233b6ec2bcd58da537a60fb828523a8c90c
 SHA256: 5763a59fd0a4706cd49abc05c0e4c6a09821f792ebd999f7dddf8eb43c9a8347
 Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/icon.png
 Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
+
+Package: com.skeuo4ever.cameratimer
+Name: Camera Timer
+Description: A 3 or 10 second self-timer in Camera (iOS 8)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.1)
+Architecture: iphoneos-arm
+Version: 0.4.1
+Installed-Size: 72
+Filename: debs/com.skeuo4ever.cameratimer_0.4.1_iphoneos-arm.deb
+Size: 10918
+MD5sum: e90dddf7f237096e763460099a32069f
+SHA1: bc3d0d4cc682ff9c837bf70a4a109d2f43e1e94b
+SHA256: a9430b5d37d4719620152dcb15f16609911fa1d14be1c9e1a01d65565e16ed09
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.cameratimer/
 Homepage: https://vdch00.github.io/Skeuo4Ever/
 
 Package: com.skeuo4ever.controlcenter
