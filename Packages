@@ -1,662 +1,229 @@
-Package: com.ios6revive.battery
-Name: Энергосбережение и аккумулятор
-Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Package: com.skeuo4ever
+Name: Skeuo4Ever
+Version: 0.4.0
 Architecture: iphoneos-arm
-Version: 0.1.1
-Installed-Size: 60
-Filename: debs/com.ios6revive.battery_0.1.1_iphoneos-arm.deb
-Size: 9240
-MD5sum: 96f832d790ac2e61912f530da5a918a8
-SHA1: 19ade05bac02e7f3104c7607fbe4c1fc352d3107
-SHA256: 63d980eea1d8018bc9f2dd3dfc65e12fda7be7c369710cfd597a00cf6009051c
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Description: Every Skeuo4Ever feature in one package: modern iOS features, skeuomorphic forever
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: com.skeuo4ever.swipeback, com.skeuo4ever.battery, com.skeuo4ever.nightshift, com.skeuo4ever.newsash, com.skeuo4ever.boldtext, com.skeuo4ever.desktopsite, com.skeuo4ever.controlcenter, com.skeuo4ever.keyboardcursor, com.skeuo4ever.screenshot
+Conflicts: com.ios6revive.quickwins
+Replaces: com.ios6revive.quickwins
+Filename: debs/com.skeuo4ever_0.4.0_iphoneos-arm.deb
+Size: 706
+MD5sum: 8a205824cc7089dcc11acc294d324fc4
+SHA1: 5d0f0f75203ca5a1d5e2ed46407197851e65dd0e
+SHA256: f7e773b190cbc28f03160b8779e330cd09d6ec98744df1e46173304167973a71
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.battery
-Name: Энергосбережение и аккумулятор
+Package: com.skeuo4ever.battery
+Name: Low Power Mode & Battery Health
 Description: Low Power Mode (iOS 9) and Battery Health (iOS 11.3)
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.battery
+Replaces: com.ios6revive.battery
 Architecture: iphoneos-arm
-Version: 0.1.2
+Version: 0.4.0
 Installed-Size: 60
-Filename: debs/com.ios6revive.battery_0.1.2_iphoneos-arm.deb
-Size: 9246
-MD5sum: 87870ccee1ec10173b28583d850d7082
-SHA1: 3bb20fef5420468f8382aa1b1f4aaa7acfe42dfb
-SHA256: f834da47f65b69f4dccf7c874f1325804a408ebc337023258821118afcd49973
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.battery/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.battery_0.4.0_iphoneos-arm.deb
+Size: 10552
+MD5sum: bee482d54be24416b61f46d5756c0b80
+SHA1: 46b3dd2a91c418ef8d86ad4a5783ea4f818d4a17
+SHA256: 8e01f957b529485e5f47ae5cc53fd40ad899efd4dcc3c939366ef5ae96a78e4a
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.battery/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.battery/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.boldtext
-Name: Жирный шрифт
-Description: Bold Text accessibility option (iOS 7)
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
-Architecture: iphoneos-arm
-Version: 0.1.1
-Installed-Size: 56
-Filename: debs/com.ios6revive.boldtext_0.1.1_iphoneos-arm.deb
-Size: 3984
-MD5sum: 5a27449e8b8ec35787d227b5b0447817
-SHA1: e91220f7f41941adbd42be961e6ccfc1a867e26e
-SHA256: 2b317b9b24c9761224d5965602f649119c248c2a9d91ea2f71f828aa4cfe6a2f
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.boldtext
-Name: Жирный шрифт
+Package: com.skeuo4ever.boldtext
+Name: Bold Text
 Description: Bold Text accessibility option (iOS 7)
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.boldtext
+Replaces: com.ios6revive.boldtext
 Architecture: iphoneos-arm
-Version: 0.1.2
+Version: 0.4.0
 Installed-Size: 56
-Filename: debs/com.ios6revive.boldtext_0.1.2_iphoneos-arm.deb
-Size: 3986
-MD5sum: 350824eabd60e2400c26d2be3f632d9f
-SHA1: 90b90c7dccfb1fa774b47996e6e57a072f381677
-SHA256: 5a1afc01ebeed325d22cca69561cc9d0a954387310df06d2c6dcd4029112bbae
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.boldtext/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.boldtext_0.4.0_iphoneos-arm.deb
+Size: 4176
+MD5sum: 0b6576afb389dc2952df4c7d37f43327
+SHA1: 438dd31863048eae7529b9865e7c8681193bc080
+SHA256: 9bc0e608bf978a4a06dc8a4e83b77436021a40db533e2e3a61ebba0c5ae4cebc
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.boldtext/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.controlcenter
-Name: Пункт управления
-Description: Control Center (iOS 7) in iOS 6 style: swipe up from the bottom edge
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.2)
-Architecture: iphoneos-arm
-Version: 0.2.0
-Installed-Size: 80
-Filename: debs/com.ios6revive.controlcenter_0.2.0_iphoneos-arm.deb
-Size: 20884
-MD5sum: 48dc3261097189e08929a52808cb067a
-SHA1: aff5c362375ae5d846b05c0f6d7e6ba8b41d11b2
-SHA256: 44bc4d73e4ec036b1bb4770bad9fd2f9227d4e1428e90368e951a281c78d49cd
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.controlcenter
-Name: Пункт управления
-Description: Control Center (iOS 7) in iOS 6 style: swipe up from the bottom edge
+Package: com.skeuo4ever.controlcenter
+Name: Control Center
+Description: Control Center (iOS 7) in skeuomorphic style, opened with an Activator gesture
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.2)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0), libactivator
+Conflicts: com.ios6revive.controlcenter
+Replaces: com.ios6revive.controlcenter
 Architecture: iphoneos-arm
-Version: 0.2.1
-Installed-Size: 80
-Filename: debs/com.ios6revive.controlcenter_0.2.1_iphoneos-arm.deb
-Size: 20888
-MD5sum: debb13cf7e35561640b6b46bef72e7f0
-SHA1: 1639704232143a1845a8d90bcb4a8a3c00d73276
-SHA256: a43bdcc3f8e53c8875bdea9f9e6e850344ae20d7ca1fb0ef5ccd95eb6c1b3fb8
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.controlcenter
-Name: Пункт управления
-Description: Control Center (iOS 7) in iOS 6 style: swipe up from the bottom edge
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.2)
-Architecture: iphoneos-arm
-Version: 0.2.2
-Installed-Size: 80
-Filename: debs/com.ios6revive.controlcenter_0.2.2_iphoneos-arm.deb
-Size: 21276
-MD5sum: 7b187f0d14efd76d02efa09b98cca3d5
-SHA1: b7b0b261a1b2bdf1a6f26e2db7887c2d1c643ba6
-SHA256: cdd8a946ff81c60c72725a4d2d8c32810155598c95aa3c9e9ee9187beae9d9d6
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.controlcenter
-Name: Пункт управления
-Description: Control Center (iOS 7) in iOS 6 style, opened with an Activator gesture
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.5), libactivator
-Architecture: iphoneos-arm
-Version: 0.3.0
-Installed-Size: 80
-Filename: debs/com.ios6revive.controlcenter_0.3.0_iphoneos-arm.deb
-Size: 23924
-MD5sum: ee949cbb2d04f7bd9126d502983c86b9
-SHA1: bfa8392f75f04b3316f56bab7f548d2417083ad8
-SHA256: 31dcab9010d81187cf282886097553f791d31a35da12b3973eb0f682df766dc5
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.controlcenter
-Name: Пункт управления
-Description: Control Center (iOS 7) in iOS 6 style, opened with an Activator gesture
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.5), libactivator
-Architecture: iphoneos-arm
-Version: 0.3.1
+Version: 0.4.0
 Installed-Size: 96
-Filename: debs/com.ios6revive.controlcenter_0.3.1_iphoneos-arm.deb
-Size: 26468
-MD5sum: b1e8d6afe8a83e5f3709d6e5669be319
-SHA1: 346f070fdd3d16872f4ab3e5cc18e2c398967880
-SHA256: 810cef890e16fbff22c4a36f59b3d9ed9a325bd5eeb92878e9286e5019af824b
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.controlcenter_0.4.0_iphoneos-arm.deb
+Size: 29572
+MD5sum: 2d166fb07464feaac2d32e2b88fbe4b2
+SHA1: f6c5a2e4e1ed6ecf2732bdb2a38c4262e1fe180c
+SHA256: e22b4b39def104ebe92565a485f985436d9e277d819119d1a9b120155936bd7f
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.controlcenter/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.controlcenter/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.controlcenter
-Name: Пункт управления
-Description: Control Center (iOS 7) in iOS 6 style, opened with an Activator gesture
+Package: com.skeuo4ever.core
+Name: Skeuo4Ever Core
+Description: Skeuo4Ever core: Settings pane and shared services
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.5), libactivator
-Architecture: iphoneos-arm
-Version: 0.3.2
-Installed-Size: 96
-Filename: debs/com.ios6revive.controlcenter_0.3.2_iphoneos-arm.deb
-Size: 28194
-MD5sum: ab5394cf6e1d958eb824ee74e87c6aee
-SHA1: aa48746d96a722d2bf9a33517e5718287f54abd0
-SHA256: 39de3a2466f3dc3c403ae344c2128f2aa8141926e5f0026d8b8582148e691a9c
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.controlcenter
-Name: Пункт управления
-Description: Control Center (iOS 7) in iOS 6 style, opened with an Activator gesture
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.5), libactivator
-Architecture: iphoneos-arm
-Version: 0.3.3
-Installed-Size: 96
-Filename: debs/com.ios6revive.controlcenter_0.3.3_iphoneos-arm.deb
-Size: 28572
-MD5sum: fc9eab62fdf4eb970104d90a46aee3f6
-SHA1: c90d3e3155753968914a65c3bf57c225449f33a7
-SHA256: d87f7b3b470d8c0f06630a3760f3b6c53aba0f4384641f884eb13da9756a3a66
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.controlcenter/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.core
-Name: iOS6Revive
-Description: iOS6Revive core: Settings pane and shared services
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
+Section: Skeuo4Ever
 Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
+Conflicts: com.ios6revive.core
+Replaces: com.ios6revive.core
 Architecture: iphoneos-arm
-Version: 0.1.1
-Installed-Size: 116
-Filename: debs/com.ios6revive.core_0.1.1_iphoneos-arm.deb
-Size: 24514
-MD5sum: a5e3a9966473fa90a122214816655f96
-SHA1: db29f3ebfa20f144252d8dcc60e05b766a48d009
-SHA256: dd199a0b2c0152346e3dd409a05ee1f04d83c147a8796513da1b59946eefb17e
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.core
-Name: iOS6Revive
-Description: iOS6Revive core: Settings pane and shared services
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
-Architecture: iphoneos-arm
-Version: 0.1.2
-Installed-Size: 116
-Filename: debs/com.ios6revive.core_0.1.2_iphoneos-arm.deb
-Size: 24710
-MD5sum: f0aeb4ed9035cdb7f3bdf615acaf33ce
-SHA1: a00c7b24fe47343c1dd4361e706e70f8da101f1c
-SHA256: 64abe26ed288b1c7c08f10e1e3aa43aee2e90f690dc0f08907335e8c6aa4be2a
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.core
-Name: iOS6Revive
-Description: iOS6Revive core: Settings pane and shared services
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
-Architecture: iphoneos-arm
-Version: 0.1.3
+Version: 0.4.0
 Installed-Size: 136
-Filename: debs/com.ios6revive.core_0.1.3_iphoneos-arm.deb
-Size: 26014
-MD5sum: a20525e7ee1b49b5b65bd187b077def6
-SHA1: 719db427060b09121e96db7bdca0879e672abcb4
-SHA256: 7d92311e57e0565591cca4b8b9b8c380ee2b812dd45776ef483331b5287ddef5
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.core_0.4.0_iphoneos-arm.deb
+Size: 30520
+MD5sum: 1fd8fa3df1f67b4d0c2f571806a656b9
+SHA1: e71348634d1f257e7fe9a8db9a49452e2bb062a2
+SHA256: 0105ea1d2c674d901c29d1b80afce7faf091b1b40b0bca75edc118ed785e4b46
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.core/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.core/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.core
-Name: iOS6Revive
-Description: iOS6Revive core: Settings pane and shared services
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
-Architecture: iphoneos-arm
-Version: 0.1.4
-Installed-Size: 136
-Filename: debs/com.ios6revive.core_0.1.4_iphoneos-arm.deb
-Size: 26014
-MD5sum: 2c5e7e0f716bb583e4380346f89a7a9f
-SHA1: 153ad779671c114bbfdae183e1e3a3770cff00f4
-SHA256: 1191291d6f80ac6a678845582228db097b6a60976b6e1faed147a06950eda141
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.core
-Name: iOS6Revive
-Description: iOS6Revive core: Settings pane and shared services
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
-Architecture: iphoneos-arm
-Version: 0.1.5
-Installed-Size: 136
-Filename: debs/com.ios6revive.core_0.1.5_iphoneos-arm.deb
-Size: 26040
-MD5sum: cae3ca0b40b8ad208758a18c3222bae5
-SHA1: 1639540f5399de0f8bb6b1bdaf780e98c980a678
-SHA256: 8e59c583582d951067146d7e5961ea4f36060614bdad742a9b363b453152c0a4
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.core
-Name: iOS6Revive
-Description: iOS6Revive core: Settings pane and shared services
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0)
-Architecture: iphoneos-arm
-Version: 0.1.6
-Installed-Size: 136
-Filename: debs/com.ios6revive.core_0.1.6_iphoneos-arm.deb
-Size: 26072
-MD5sum: 6bffedda274a1581005979aaa65fba41
-SHA1: 4e545e0e14cad11386f8565f33d7adbb54bce645
-SHA256: 3630a039defb149691c4b6b6fc6676937c1b48d634b3aa9d7802b82c93cf8009
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.core/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.desktopsite
-Name: Полная версия сайта
+Package: com.skeuo4ever.desktopsite
+Name: Request Desktop Site
 Description: Request Desktop Site in the Safari share sheet (iOS 9)
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.desktopsite
+Replaces: com.ios6revive.desktopsite
 Architecture: iphoneos-arm
-Version: 0.1.1
-Installed-Size: 56
-Filename: debs/com.ios6revive.desktopsite_0.1.1_iphoneos-arm.deb
-Size: 6804
-MD5sum: d491374594f87a2b87c8cf5491e72b1b
-SHA1: 8c21fada96facfbf9e96aa373f2bc9643baf6961
-SHA256: c66213edb8bcafd200d07e612865a33fb4366b6c8b0bd067adc7a9b34e521f74
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.desktopsite
-Name: Полная версия сайта
-Description: Request Desktop Site in the Safari share sheet (iOS 9)
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
-Architecture: iphoneos-arm
-Version: 0.1.2
+Version: 0.4.0
 Installed-Size: 60
-Filename: debs/com.ios6revive.desktopsite_0.1.2_iphoneos-arm.deb
-Size: 7208
-MD5sum: 227a2d0dabf9b57c7e31687139c2b85c
-SHA1: f0c86e6b77f2003ba1732ebe116ca40f999a3371
-SHA256: 00804ff192b5208cd9788f79931889ef9bf6de49d03a1572a5d2778d37b630aa
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.desktopsite_0.4.0_iphoneos-arm.deb
+Size: 8026
+MD5sum: c79183b9d50df00f8f93278506b24690
+SHA1: 521101067312b7857415df1d19d249a6f538dfc9
+SHA256: 22552dbe00d798f7bc1947cbf895706fc21f34aaa2342a1397b004224ec12c8a
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.desktopsite/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.desktopsite/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.desktopsite
-Name: Полная версия сайта
-Description: Request Desktop Site in the Safari share sheet (iOS 9)
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
-Architecture: iphoneos-arm
-Version: 0.1.3
-Installed-Size: 60
-Filename: debs/com.ios6revive.desktopsite_0.1.3_iphoneos-arm.deb
-Size: 7218
-MD5sum: 3436787be66bceb5187a08ff33e69d6c
-SHA1: f1d392fa561b949b8eb947be869e98f1c49b59f2
-SHA256: 87bd1f90559fa96b99f7884ad3bc4150c611cc5665463dbf6cd6298af3aea7d6
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.desktopsite/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.keyboardcursor
-Name: Курсор свайпом по пробелу
-Description: Move the text cursor by swiping on the space bar (iOS 12)
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
-Architecture: iphoneos-arm
-Version: 0.2.0
-Installed-Size: 68
-Filename: debs/com.ios6revive.keyboardcursor_0.2.0_iphoneos-arm.deb
-Size: 8410
-MD5sum: f45b9ad9ea6d947bbbf8b1f06b3b2d2d
-SHA1: 18a9d734c2977979aa2d33d32380fbb4e5d09dd5
-SHA256: c9564267ea46055c64bd9ef146ec5f8dc7ca988a67fe5d8d1b8ce07bd8245b66
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.keyboardcursor
-Name: Курсор свайпом по пробелу
+Package: com.skeuo4ever.keyboardcursor
+Name: Space Bar Cursor
 Description: Move the text cursor by swiping on the space bar (iOS 12)
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.keyboardcursor
+Replaces: com.ios6revive.keyboardcursor
 Architecture: iphoneos-arm
-Version: 0.2.1
+Version: 0.4.0
 Installed-Size: 68
-Filename: debs/com.ios6revive.keyboardcursor_0.2.1_iphoneos-arm.deb
-Size: 8414
-MD5sum: e241bd51a92d88291e167d4dd11475ad
-SHA1: df1fc8c27705a7920cfb2cec55adf3805d16eef7
-SHA256: f28addd0a9a63ab7633f617875300e1494c3a894d8d9ac1391654e02e9fe1e58
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.keyboardcursor/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.keyboardcursor_0.4.0_iphoneos-arm.deb
+Size: 8682
+MD5sum: 82328a2f3a40bf2ab271cf9209ea28ba
+SHA1: 837d9d9b4d74dc2c1ae8d92feabe72e3ab48edd7
+SHA256: d1184e8568ac4205ab53301cc9e5b34e9bd1a9f81b4792e20b49f839dbf3e489
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.keyboardcursor/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.keyboardcursor/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.newappdot
-Name: Метки новых программ
-Description: Blue dot next to newly installed apps (iOS 7)
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
-Architecture: iphoneos-arm
-Version: 0.1.1
-Installed-Size: 60
-Filename: debs/com.ios6revive.newappdot_0.1.1_iphoneos-arm.deb
-Size: 8362
-MD5sum: 592b5c331a2ba149cb319b2805f4b434
-SHA1: 285fb648f6fac65f1c41498cfa68448c4d9a364b
-SHA256: 12e08d990af94cb858b783e54f091d775190f835a96d347962faeea2bb4f5abb
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.newappdot
-Name: Метки новых программ
-Description: Blue dot next to newly installed apps (iOS 7)
+Package: com.skeuo4ever.newsash
+Name: New App Sash
+Description: The iOS 6 New sash on every newly installed app, including ipa and Cydia apps
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.newappdot
+Replaces: com.ios6revive.newappdot
 Architecture: iphoneos-arm
-Version: 0.1.2
+Version: 0.4.0
 Installed-Size: 60
-Filename: debs/com.ios6revive.newappdot_0.1.2_iphoneos-arm.deb
-Size: 8364
-MD5sum: 1b706331d2027c7b5494b3c16864c42e
-SHA1: c7a810cef9369f2946d9c19e92b6cb31043dfac7
-SHA256: c98dcbf16fd1b4d393e91cb55e4d0ad68e25a737562aed3fac0394512da0d814
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.newsash_0.4.0_iphoneos-arm.deb
+Size: 9332
+MD5sum: b0ef1a3496bcb44f4c0a51153b694b1b
+SHA1: 7fcf93b7f9eb39780811b15e8006ec3d6ecb6b86
+SHA256: 2a84293172407c1c9d5587cb5b82250f1077f48788eb1a3be9c446f8854cf3c0
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.newsash/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.newsash/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.newappdot
-Name: Лента «Новое»
-Description: Native iOS 6 New sash on every newly installed app, including ipa and Cydia apps
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.6)
-Architecture: iphoneos-arm
-Version: 0.2.0
-Installed-Size: 60
-Filename: debs/com.ios6revive.newappdot_0.2.0_iphoneos-arm.deb
-Size: 8970
-MD5sum: e3ca1d2ab3a262732a85c57286848413
-SHA1: 8737ae36e47b01d352a94c83a1c385519204b4ba
-SHA256: 172cfebf94738e593871efd1325006e989b0c9831b33c536adf42de36dcc39b6
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.newappdot/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.nightshift
-Name: Night Shift
-Description: Night Shift (iOS 9.3): warm display colors on a schedule
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
-Architecture: iphoneos-arm
-Version: 0.1.1
-Installed-Size: 56
-Filename: debs/com.ios6revive.nightshift_0.1.1_iphoneos-arm.deb
-Size: 7634
-MD5sum: 0ee63dac155c00a0bff1e971622bb516
-SHA1: 5a877e37575def1babe1e58ada575add264dc811
-SHA256: 6d5589277e373035bea02a8a6a6a9703041059fba0cf068ae7c61884d1414a38
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.nightshift
+Package: com.skeuo4ever.nightshift
 Name: Night Shift
 Description: Night Shift (iOS 9.3): warm display colors on a schedule
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.nightshift
+Replaces: com.ios6revive.nightshift
 Architecture: iphoneos-arm
-Version: 0.1.2
+Version: 0.4.0
 Installed-Size: 56
-Filename: debs/com.ios6revive.nightshift_0.1.2_iphoneos-arm.deb
-Size: 7644
-MD5sum: 1a1fef21f5973a2906147b6d7a3ac163
-SHA1: f43ac88934b693b01c74a3cf4906bc3bc6540d42
-SHA256: 537405f5e75fe13e07869319e7aae4ccb948acebede22813ba74b9c195545b91
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.nightshift/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.nightshift_0.4.0_iphoneos-arm.deb
+Size: 8062
+MD5sum: 3211943cbf202c46dd9fd5f44df57f9c
+SHA1: 2bf8d774384332847057ed5ee0be7c6c7762e7bd
+SHA256: 857bb9376cb3907e491df3ca177727118aff90ab9b0a421a7fc5e0e493fdcd1e
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.nightshift/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.nightshift/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.quickwins
-Name: iOS6Revive: быстрые победы
-Version: 0.1.1
-Architecture: iphoneos-arm
-Description: All stage 1 features of iOS6Revive in one package
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: com.ios6revive.swipeback, com.ios6revive.battery, com.ios6revive.nightshift, com.ios6revive.newappdot, com.ios6revive.boldtext, com.ios6revive.desktopsite
-Filename: debs/com.ios6revive.quickwins_0.1.1_iphoneos-arm.deb
-Size: 674
-MD5sum: 6b7f5da5292633490d0256ea8858ab4a
-SHA1: d543e6536c458f15d78fb5599545c10e0ab0dffe
-SHA256: 490e2217b8d65844e419fc4104dd6f3d4798a70d4d37e3bc86aceda20c913e1c
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.quickwins
-Name: iOS6Revive: быстрые победы
-Version: 0.1.2
-Architecture: iphoneos-arm
-Description: All stage 1 features of iOS6Revive in one package
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: com.ios6revive.swipeback, com.ios6revive.battery, com.ios6revive.nightshift, com.ios6revive.newappdot, com.ios6revive.boldtext, com.ios6revive.desktopsite
-Filename: debs/com.ios6revive.quickwins_0.1.2_iphoneos-arm.deb
-Size: 682
-MD5sum: 552ff693fa453960ddc1a0bc6ed26583
-SHA1: deb109093424f1e06db188186a8b2808ee096c96
-SHA256: 9862e3ebb919a77e69275d2a3715078d241e04488fea3c18744fe113926212d9
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.quickwins/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.screenshot
-Name: Превью скриншота
+Package: com.skeuo4ever.screenshot
+Name: Screenshot Preview
 Description: Screenshot thumbnail in the corner with markup (iOS 11)
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.screenshot
+Replaces: com.ios6revive.screenshot
 Architecture: iphoneos-arm
-Version: 0.2.0
-Installed-Size: 92
-Filename: debs/com.ios6revive.screenshot_0.2.0_iphoneos-arm.deb
-Size: 23192
-MD5sum: 13d253af86ef3883d65460da61fee232
-SHA1: d69e11221704b053d1fa3704678ce0f4547617d4
-SHA256: 9161de1ac9979ba10f4a4ca6a05b1e82478cba8d08e27ce99ad2929263b682b6
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.screenshot
-Name: Превью скриншота
-Description: Screenshot thumbnail in the corner with markup (iOS 11)
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
-Architecture: iphoneos-arm
-Version: 0.2.1
-Installed-Size: 92
-Filename: debs/com.ios6revive.screenshot_0.2.1_iphoneos-arm.deb
-Size: 24284
-MD5sum: c36e55e003ec7efc6bfbeb7e5dc8d7a3
-SHA1: 8162e51f1ef17271379f8c1b154dead8274b9980
-SHA256: b4303022ac358454941af647007ac07e34d129f9e5207d8f9594c384bdf519b4
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.screenshot
-Name: Превью скриншота
-Description: Screenshot thumbnail in the corner with markup (iOS 11)
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
-Architecture: iphoneos-arm
-Version: 0.2.2
+Version: 0.4.0
 Installed-Size: 108
-Filename: debs/com.ios6revive.screenshot_0.2.2_iphoneos-arm.deb
-Size: 25894
-MD5sum: d472bfff96f413e22c00a6cc67b2a3a0
-SHA1: f12309b525c0a9192eb2fd283efb81542519d839
-SHA256: af2a71d9ffcdb8a6729b4ad675fb3ed608fc39d2041e418b01f73b708da93154
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.screenshot_0.4.0_iphoneos-arm.deb
+Size: 26036
+MD5sum: f4f5ebb4a9117d0b9afe8a4535587c2d
+SHA1: 1c4297194dfd10861741a9648e7bc1f9f7fc8a50
+SHA256: 5840840000ac7cb25c14f46e94c4f8f33b988001e3fc9aedd9ab24436518461c
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.screenshot/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
 
-Package: com.ios6revive.screenshot
-Name: Превью скриншота
-Description: Screenshot thumbnail in the corner with markup (iOS 11)
+Package: com.skeuo4ever.swipeback
+Name: Swipe Back
+Description: Swipe from the left edge to go back (iOS 7) with the iOS 6 slide animation
 Maintainer: SmokinInTheWoods
 Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
+Section: Skeuo4Ever
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.skeuo4ever.core (>= 0.4.0)
+Conflicts: com.ios6revive.swipeback
+Replaces: com.ios6revive.swipeback
 Architecture: iphoneos-arm
-Version: 0.2.3
-Installed-Size: 92
-Filename: debs/com.ios6revive.screenshot_0.2.3_iphoneos-arm.deb
-Size: 24946
-MD5sum: 667aef011aa7927cb9c26571df2e974e
-SHA1: 5c13be217240d41b9143301897dd8b30eb43ae21
-SHA256: 3ba6b7ee46f89eb63e363bd9860334e620b5bd29a3f27ef5d2b9bed94b46b4a2
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.swipeback
-Name: Смахивание назад
-Description: Swipe from the left edge to go back (iOS 7) with iOS 6 animation
-Maintainer: BreezeAreaSay
-Author: BreezeAreaSay
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
-Architecture: iphoneos-arm
-Version: 0.1.1
+Version: 0.4.0
 Installed-Size: 60
-Filename: debs/com.ios6revive.swipeback_0.1.1_iphoneos-arm.deb
-Size: 10980
-MD5sum: e60dd1009bf56980c5fc32d0f89b110d
-SHA1: 146c72b82b2685e3f645674eb46e5bc533564fff
-SHA256: f3820d52fca0f2392599b3b8f135a589ea10e3ad47e3a0a4ae280c72c4628894
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/
-Homepage: https://vdch00.github.io/iOS6Revive/
-
-Package: com.ios6revive.swipeback
-Name: Смахивание назад
-Description: Swipe from the left edge to go back (iOS 7) with iOS 6 animation
-Maintainer: SmokinInTheWoods
-Author: SmokinInTheWoods
-Section: iOS6Revive
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.0)
-Architecture: iphoneos-arm
-Version: 0.1.2
-Installed-Size: 60
-Filename: debs/com.ios6revive.swipeback_0.1.2_iphoneos-arm.deb
-Size: 10992
-MD5sum: a24f3427b35905f6ff78a23fba08670d
-SHA1: d8a6195854b7987a3ecb047c1608506ff4858989
-SHA256: 397b46467a3dd2121192b5bc8ebfaf119b7759800396ff4c0f9c159b64f3bba7
-Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/icon.png
-Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.swipeback/
-Homepage: https://vdch00.github.io/iOS6Revive/
+Filename: debs/com.skeuo4ever.swipeback_0.4.0_iphoneos-arm.deb
+Size: 11188
+MD5sum: f029faea1dba117d58827bed31f0f8e8
+SHA1: 2442eb798ad375d58af617c846281ea7d3b9238b
+SHA256: 293dbbbb395f652e91b5dd78e3803cffff548b0b3fba88ea4c7597d4c6861558
+Icon: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.swipeback/icon.png
+Depiction: https://vdch00.github.io/Skeuo4Ever/depictions/com.skeuo4ever.swipeback/
+Homepage: https://vdch00.github.io/Skeuo4Ever/
