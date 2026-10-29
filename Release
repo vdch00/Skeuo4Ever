@@ -6,16 +6,16 @@ Codename: skeuo4ever
 Architectures: iphoneos-arm
 Components: main
 Description: Modern iOS features, skeuomorphic forever
-Date: Thu, 29 Oct 2026 01:14:22 GMT
+Date: Thu, 29 Oct 2026 01:26:21 GMT
 MD5Sum:
- 9d8c7a832c0782ba7275b376c5f20103 24174 Packages
- 8e4377ae8a73741743d3fa1bf2b4bd0a 4304 Packages.gz
- 4781cee060de140bec263c028ca032e8 4290 Packages.bz2
+ d8566049cf5eca081fb12114234391d4 35862 Packages
+ 2f0954a9fcd41a8c7a254152e5d6c99e 5906 Packages.gz
+ 170a6d627683cdbd22c744a69a4c0b13 5677 Packages.bz2
 SHA1:
- 2385819f331381140de77ef8def0539dcc96acab 24174 Packages
- 5ec8eb4dc53592936fe9bcb5cd257951152e0f0c 4304 Packages.gz
- c60ecd1d37267d01a33caa4b9f0081c089e745b7 4290 Packages.bz2
+ bb85a5bb9a6ad13cbbdeb6d902a777b8d9257df1 35862 Packages
+ 31c7e7ff56c71a1e630d32556bcd066e72deb50d 5906 Packages.gz
+ aa7e74d11141bed51770171144037fa1be8371ee 5677 Packages.bz2
 SHA256:
- be33a44e7ea8d24f184c0a7ab5a05bdc083eeb4ad75f48b4f8d43805daa22b11 24174 Packages
- ee98ffc3e415eecd5ccededa24bb91104aa62a6bc262cfd9c42871128cc18906 4304 Packages.gz
- b44029265fe9f615ed6e025d26d6448a2a15bb8c2d53f6d732cfbefe61bceffd 4290 Packages.bz2
+ 917997e366e5c0448e8c68c697f85f69360a5bed56c94f2f286384a0ed879b9e 35862 Packages
+ 4997143e88725d093a8127d4ab2fae91500de3f8a22cd244b2fff1e41c6f1391 5906 Packages.gz
+ 58ea3bd40d976f2517e1867222282c8a3613c275e77951dad08fe12799ca255e 5677 Packages.bz2
