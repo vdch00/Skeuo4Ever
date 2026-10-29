@@ -203,6 +203,12 @@
       "file": "debs/com.ios6revive.screenshot_0.2.1_iphoneos-arm.deb",
       "sha256": "b4303022ac358454941af647007ac07e34d129f9e5207d8f9594c384bdf519b4",
       "source": "473d8fda3427a69db3e70c33b48b0bb094fb680e35d02efc0ba2baac42ec2112"
+    },
+    "0.2.2": {
+      "date": "2026-10-29",
+      "file": "debs/com.ios6revive.screenshot_0.2.2_iphoneos-arm.deb",
+      "sha256": "af2a71d9ffcdb8a6729b4ad675fb3ed608fc39d2041e418b01f73b708da93154",
+      "source": "a0c4f11fe6c620b76c79de898e05a694eb3714ee2492393419b17e9b68b55c9a"
     }
   },
   "com.ios6revive.swipeback": {

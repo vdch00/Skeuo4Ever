@@ -585,6 +585,25 @@ Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/i
 Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/
 Homepage: https://vdch00.github.io/iOS6Revive/
 
+Package: com.ios6revive.screenshot
+Name: Превью скриншота
+Description: Screenshot thumbnail in the corner with markup (iOS 11)
+Maintainer: SmokinInTheWoods
+Author: SmokinInTheWoods
+Section: iOS6Revive
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 7.0), com.ios6revive.core (>= 0.1.3)
+Architecture: iphoneos-arm
+Version: 0.2.2
+Installed-Size: 108
+Filename: debs/com.ios6revive.screenshot_0.2.2_iphoneos-arm.deb
+Size: 25894
+MD5sum: d472bfff96f413e22c00a6cc67b2a3a0
+SHA1: f12309b525c0a9192eb2fd283efb81542519d839
+SHA256: af2a71d9ffcdb8a6729b4ad675fb3ed608fc39d2041e418b01f73b708da93154
+Icon: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/icon.png
+Depiction: https://vdch00.github.io/iOS6Revive/depictions/com.ios6revive.screenshot/
+Homepage: https://vdch00.github.io/iOS6Revive/
+
 Package: com.ios6revive.swipeback
 Name: Смахивание назад
 Description: Swipe from the left edge to go back (iOS 7) with iOS 6 animation
