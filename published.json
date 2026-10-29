@@ -29,6 +29,12 @@
       "file": "debs/com.skeuo4ever_0.5.0_iphoneos-arm.deb",
       "sha256": "dfed908ff9784bfb4ca7431b1774aaa2c101354d6382c0a465c6af2cc6a57ff4",
       "source": "250307056dc07bd5df667b281055b2ac2afefca031afe9fe9d86be42135e823f"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever_0.5.1_iphoneos-arm.deb",
+      "sha256": "1a8f345f7fe418274654581b2e9e9c338fc9b76966383a5dd40aa6ac17e19bb6",
+      "source": "9641e80e18cc1a6289cee800e6ffa337465aa05f3bb78707fb5fcf6bd5a63f6b"
     }
   },
   "com.skeuo4ever.battery": {
@@ -49,6 +55,12 @@
       "file": "debs/com.skeuo4ever.battery_0.5.0_iphoneos-arm.deb",
       "sha256": "1c4c1c444a96fe299d014f3490c55970f8fabefafe7107606273d5cc54f1f22b",
       "source": "8f1b1441599d4ab57016fa270e91ebe27d4936533177e785d139b39e4e63d9e8"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.battery_0.5.1_iphoneos-arm.deb",
+      "sha256": "8caa5b13ac7186b04d4c70e28bb4eca4ae309af7ac35bd88e874fdccc6540842",
+      "source": "0ea2d88df1fc904ef9c5821f38eebcbfae0296ed836b63f302929038e47fea51"
     }
   },
   "com.skeuo4ever.boldtext": {
@@ -69,6 +81,12 @@
       "file": "debs/com.skeuo4ever.boldtext_0.5.0_iphoneos-arm.deb",
       "sha256": "0762ebf6878147e837627179fd390d461ecfab22d2a6da4606b948dd374cf671",
       "source": "f690b6c42f3e45898a93667b6e46baac6a943126513078570a85fe333826c058"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.boldtext_0.5.1_iphoneos-arm.deb",
+      "sha256": "bc74cdab0be6ef4db28072ee2247faf26bddd6b2b3322e4c2cb835bafe5ad359",
+      "source": "ca4f933e613b2aae63d708374d58139ae577214066d982544ae55a2704dfa663"
     }
   },
   "com.skeuo4ever.cameratimer": {
@@ -95,6 +113,12 @@
       "file": "debs/com.skeuo4ever.cameratimer_0.5.0_iphoneos-arm.deb",
       "sha256": "31e6abe4993dfeace2a113ec792c7681872d904ee0474bc7de18a7a661b5fda6",
       "source": "3ff03446e927005f340c6a279e11229983f0d2613aaabc84ed3b9e392fd62a3e"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.cameratimer_0.5.1_iphoneos-arm.deb",
+      "sha256": "a9578619e2e0f68e871a87ddddbd83d9b0b6faac4eeb46c24a2e46b29d5d2cb2",
+      "source": "aac808da2c3a3b00718600200bf9562666945eb52faed668d2eceec7396b2d0b"
     }
   },
   "com.skeuo4ever.controlcenter": {
@@ -115,6 +139,12 @@
       "file": "debs/com.skeuo4ever.controlcenter_0.5.0_iphoneos-arm.deb",
       "sha256": "6852f077dedba36687ccb4f1baac04cec7403f0ee60cddb4a251cb56f86409d0",
       "source": "5722c432d9a7cdbe4ee66fe20e9583039c92bcc4d2542c0dcf14ce470b110092"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.controlcenter_0.5.1_iphoneos-arm.deb",
+      "sha256": "629ce956319c82cc2139ffb92b2dc4b368965a1f456d5e5ab098a4ff91de4577",
+      "source": "307581b81529429f1ceee05382725d6ff9f37894a83796189c3938ff3a992800"
     }
   },
   "com.skeuo4ever.core": {
@@ -135,6 +165,12 @@
       "file": "debs/com.skeuo4ever.core_0.5.0_iphoneos-arm.deb",
       "sha256": "bd5c3a632cefecce30b09d34fbf84e67bfba13c52700a74e22ea582ad0dae236",
       "source": "e92c3419b6543fd79d9c4882c78609a6a7a9701e61c442d739e6380a4f53aadf"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.core_0.5.1_iphoneos-arm.deb",
+      "sha256": "e39b0a99dcfcd417c0a73356a37d759a423f45b228330bc24463acbab3d6a8d1",
+      "source": "78bd073ce2ad16aa2516fa3f96d395c00e205e5de87e10bead7314f6ee8b01e3"
     }
   },
   "com.skeuo4ever.darkmode": {
@@ -143,6 +179,12 @@
       "file": "debs/com.skeuo4ever.darkmode_0.5.0_iphoneos-arm.deb",
       "sha256": "3004be5760ea3a23e97e3d14c06715c20f10c00e0839c3ec4c21faa1f1b6d15f",
       "source": "5998704d56171d73307e583995caff53da3e5748e47e070cfabc18430f78af9e"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.darkmode_0.5.1_iphoneos-arm.deb",
+      "sha256": "7088c3707e67ca33c33dc3f458f4f812d34b7dc7e209738f442b3783847b6c63",
+      "source": "c598dd60c81a4dedc44511dc6344119061128f352512b7997e00501f9aceda17"
     }
   },
   "com.skeuo4ever.desktopsite": {
@@ -163,6 +205,12 @@
       "file": "debs/com.skeuo4ever.desktopsite_0.5.0_iphoneos-arm.deb",
       "sha256": "b4cb451587a927e99a7d9523771f9fa3903de936f24161ed10afd9464514b8d3",
       "source": "f59e4227a5c6377a1ef5100a59a2461c4d9129309f3faa2f04b0efae2431accb"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.desktopsite_0.5.1_iphoneos-arm.deb",
+      "sha256": "f632669b2da628d6efa7b11b7c54f7d4642c5f0bc7e3669325cf0729c4fc57bf",
+      "source": "5df0bc7ea6a4f24261447f4be1e555996c3664519c9763cc869577b243823596"
     }
   },
   "com.skeuo4ever.keyboardcursor": {
@@ -183,6 +231,12 @@
       "file": "debs/com.skeuo4ever.keyboardcursor_0.5.0_iphoneos-arm.deb",
       "sha256": "c5f75b420b8a1e5fc8c9adb5c470338ef7f37379768bb17a1d37db8daba372e1",
       "source": "f098e430ef604a130d93b5eb1b52c74f28744fcda4ab9e91700b8589de7da78f"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.keyboardcursor_0.5.1_iphoneos-arm.deb",
+      "sha256": "dc33c0e9751a484739a981b9255548595b6c2e4d4d85305af999e04943ceac52",
+      "source": "a622172662f50d6200572fc0daff2078a7c6ee9dbb39ac9ab2780a69fcd10c04"
     }
   },
   "com.skeuo4ever.newsash": {
@@ -203,6 +257,12 @@
       "file": "debs/com.skeuo4ever.newsash_0.5.0_iphoneos-arm.deb",
       "sha256": "24f723262f934faac4916d16de4a46bf0c34418317fb173802406d815e9fa4be",
       "source": "c493e0746a0e8859f3eeb0b899117c9d5ab9fcc76914f3b3708005715970ea19"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.newsash_0.5.1_iphoneos-arm.deb",
+      "sha256": "c8acf0b0877d68687fa40b01f2b11ee3b3da0cd1f4f459e65d48a84e733e58ef",
+      "source": "cbd169b51899cc545653af615a5b39bd741bc08c86009b63a61d523ccb2fc510"
     }
   },
   "com.skeuo4ever.nightshift": {
@@ -223,6 +283,12 @@
       "file": "debs/com.skeuo4ever.nightshift_0.5.0_iphoneos-arm.deb",
       "sha256": "e3b28398239db94f710f26232fbf8cb04739360c82a1f633810b64d465ea33e6",
       "source": "662dcf3304b9b5ab0d962f3dc48825710ff97ae6b7aa0c909781c0f38b20da3d"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.nightshift_0.5.1_iphoneos-arm.deb",
+      "sha256": "53566beeaa3c435da005879eb80f6cdf6d92da478abf02beafc248eae386140c",
+      "source": "d628592e525c7db6399cb4bf1424f945a8f7153f8c3f265990dd43fa80a48114"
     }
   },
   "com.skeuo4ever.screenshot": {
@@ -243,6 +309,12 @@
       "file": "debs/com.skeuo4ever.screenshot_0.5.0_iphoneos-arm.deb",
       "sha256": "a40fbc155a56f8cffdb6b6938aea2acfb458309fcc35267ae79f487267538324",
       "source": "6aab8ac2c1036ff98f8f12a716a57463c501dbc8258c448c71f3b0ad76fa9b85"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.screenshot_0.5.1_iphoneos-arm.deb",
+      "sha256": "c7e28552d20c2dd7ae71c13d152ded0d42941c40738ae72ddb91e8f082f1a773",
+      "source": "3623d89ea354331fe870ef393ddbb53233da86952dfc5a94c38324a0ab276ed6"
     }
   },
   "com.skeuo4ever.settingssearch": {
@@ -257,6 +329,12 @@
       "file": "debs/com.skeuo4ever.settingssearch_0.5.0_iphoneos-arm.deb",
       "sha256": "c1c86a18ecb65b06a00cf72994fa81c61f60682da46cf12e4e01dde730195384",
       "source": "24b5a908e7169dfc2dec5ae650a952fec411bbb6e262ee81a04d25a7e41fa958"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.settingssearch_0.5.1_iphoneos-arm.deb",
+      "sha256": "ddf9cf09abc0c8c87a02e0c7313f0a11895cc808653dad6e0305b542407ca85b",
+      "source": "2e7a47eafa7677fa1cad84ebcbc248b47e55d32f742b90162a75f2e0fa6c068b"
     }
   },
   "com.skeuo4ever.swipeback": {
@@ -277,6 +355,12 @@
       "file": "debs/com.skeuo4ever.swipeback_0.5.0_iphoneos-arm.deb",
       "sha256": "ff4c9b0d991f43d8ab0994319f03a32d38d7962c7352b0f20507aba35f7fe6a9",
       "source": "146ae289b60d9ec3fcaf6ddb659066e8badb8125595ad676b588514c280f11af"
+    },
+    "0.5.1": {
+      "date": "2026-10-29",
+      "file": "debs/com.skeuo4ever.swipeback_0.5.1_iphoneos-arm.deb",
+      "sha256": "12196ec430d0dc781cecb01d68ed98507f8e4c89af2ad5dc7d59f68672647aaf",
+      "source": "7bbc84d629df8f06e8a73f14fd8908969b26b8a8664e43aaf601c1cd32bd97b2"
     }
   }
 }
